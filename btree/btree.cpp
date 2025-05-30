@@ -4,7 +4,7 @@
 #include <iostream>
 
 #include "btree.h"
-#include "zipf_implementation.h"
+#include "../zipf_implementation.h"
 // #include "common.h"
 #include <cassert>
 
