@@ -1,0 +1,22 @@
+# Build artifacts
+/build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Logs and results
+logs/
+btree_results/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Compiled binaries
+*.o
+*.out
+*.exe
+
+# Other
+*.log 
