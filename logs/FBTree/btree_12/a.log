@@ -1,0 +1,18 @@
+Results file: a.csv
+Creating FBTree and inserting data...
+Inserted 20000000 random key/value pairs.
+Lat size55831666
+Write Lat size55834998
+GET | Threads: 12 | Avg Latency: 638.62 ns/op
+PUT | Threads: 12 | Avg Latency: 798.83 ns/op
+Total | Threads: 12 | Throughput: 16696171.87 ops/s | Avg Latency: 718.73 ns/op
+Writing row with 5 columns
+Done.
+FBTree Structure:
+-- FBTree statistics
+  -- index depth: 5.00
+  -- index size: 0.18 GB
+  -- inner num: 4963.00
+  -- kv pair num: 20000000.00
+  -- leaf num: 312500.00
+  -- load factor: 1.00

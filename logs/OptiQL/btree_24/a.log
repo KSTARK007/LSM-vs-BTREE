@@ -1,0 +1,10 @@
+Results file: a.csv
+Creating OptiQL Tree and inserting data...
+Inserted 20000000 random key/value pairs.
+Lat size53332513
+Write Lat size53334151
+GET | Threads: 24 | Avg Latency: 279.56 ns/op
+PUT | Threads: 24 | Avg Latency: 3168.13 ns/op
+Total | Threads: 24 | Throughput: 13922180.02 ops/s | Avg Latency: 1723.87 ns/op
+Writing row with 5 columns
+Done.

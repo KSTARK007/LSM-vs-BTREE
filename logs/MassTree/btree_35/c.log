@@ -1,0 +1,10 @@
+Results file: c.csv
+Creating MassTree and inserting data...
+Inserted 20000000 random key/value pairs.
+Lat size379285730
+Write Lat size0
+GET | Threads: 35 | Avg Latency: 545.03 ns/op
+PUT | Threads: 35 | Avg Latency: 0.00 ns/op
+Total | Threads: 35 | Throughput: 64217191.85 ops/s | Avg Latency: 545.03 ns/op
+Writing row with 5 columns
+Done.

@@ -1,0 +1,3 @@
+[Init] Inserting 20000000 keys...
+[Init] Done.
+Threads: 1 | Throughput: 1030019.07 ops/s | Avg Latency: 970.86 ns (Read: 975.52, Write: 966.20)

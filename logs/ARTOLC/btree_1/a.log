@@ -1,0 +1,10 @@
+Results file: a.csv
+Creating ARTOLC tree and inserting data...
+Inserted 20000000 random key/value pairs.
+Lat size5000638
+Write Lat size4999362
+GET | Threads: 1 | Avg Latency: 297.41 ns/op
+PUT | Threads: 1 | Avg Latency: 1078.02 ns/op
+Total | Threads: 1 | Throughput: 1454200.65 ops/s | Avg Latency: 687.66 ns/op
+Writing row with 5 columns
+Done.
