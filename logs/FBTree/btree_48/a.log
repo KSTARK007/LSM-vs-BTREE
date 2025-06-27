@@ -1,11 +1,11 @@
 Results file: a.csv
 Creating FBTree and inserting data...
 Inserted 20000000 random key/value pairs.
-Lat size216660777
-Write Lat size216672503
-GET | Threads: 48 | Avg Latency: 641.28 ns/op
-PUT | Threads: 48 | Avg Latency: 820.26 ns/op
-Total | Threads: 48 | Throughput: 65683889.52 ops/s | Avg Latency: 730.77 ns/op
+Lat size12501274
+Write Lat size12498694
+GET | Threads: 48 | Avg Latency: 18001.19 ns/op
+PUT | Threads: 48 | Avg Latency: 18599.50 ns/op
+Total | Threads: 48 | Throughput: 2622905.97 ops/s | Avg Latency: 18300.31 ns/op
 Writing row with 5 columns
 Done.
 FBTree Structure:

@@ -1,11 +1,14 @@
 Results file: b.csv
 Writing row with 5 columns
 Creating ARTOLC tree and inserting data...
-Inserted 20000000 random key/value pairs.
-Lat size14247955
-Write Lat size752045
-GET | Threads: 1 | Avg Latency: 231.94 ns/op
-PUT | Threads: 1 | Avg Latency: 1716.16 ns/op
-Total | Threads: 1 | Throughput: 3264184.76 ops/s | Avg Latency: 306.36 ns/op
+Inserted 200000 random key/value pairs.
+Key not found: 0
+Key not found: 0
+Key not found: 0
+Lat size2802589
+Write Lat size147411
+GET | Threads: 1 | Avg Latency: 3149.37 ns/op
+PUT | Threads: 1 | Avg Latency: 1534.64 ns/op
+Total | Threads: 1 | Throughput: 325872.40 ops/s | Avg Latency: 3068.69 ns/op
 Writing row with 5 columns
 Done.

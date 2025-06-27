@@ -8,21 +8,27 @@ dataframes = {}
 
 # List of file paths provided by the user
 file_paths = [
-    'btreeolc_results/a.csv',
-    'btreeolc_results/c.csv',
-    'btreeolc_results/b.csv',
-    'fbtree_results/a.csv',
-    'fbtree_results/c.csv',
-    'fbtree_results/b.csv',
-    'masstree_results/a.csv',
-    'masstree_results/c.csv',
-    'masstree_results/b.csv',
-    'optiql_results/a.csv',
-    'optiql_results/c.csv',
-    'optiql_results/b.csv',
-    'artolc_results/a.csv',
-    'artolc_results/c.csv',
-    'artolc_results/b.csv'
+    # 'btreeolc_results/a.csv',
+    # 'btreeolc_results/c.csv',
+    # 'btreeolc_results/b.csv',
+    # 'fbtree_results/a.csv',
+    # 'fbtree_results/c.csv',
+    # 'fbtree_results/b.csv',
+    # 'masstree_results/a.csv',
+    # 'masstree_results/c.csv',
+    # 'masstree_results/b.csv',
+    # 'optiql_results/a.csv',
+    # 'optiql_results/c.csv',
+    # 'optiql_results/b.csv',
+    # 'artolc_results/a.csv',
+    # 'artolc_results/c.csv',
+    # 'artolc_results/b.csv'
+    'fbtree-cache-flush_results/a.csv',
+    'fbtree-cache-flush_results/c.csv',
+    'fbtree-cache-flush_results/b.csv',
+    'artolc-cache-flush_results/a.csv',
+    'artolc-cache-flush_results/c.csv',
+    'artolc-cache-flush_results/b.csv'
 ]
 
 # Loop through each file path, read the CSV, and store it in the dictionary

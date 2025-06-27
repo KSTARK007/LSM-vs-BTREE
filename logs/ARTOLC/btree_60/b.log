@@ -1,6 +1,6 @@
 Results file: b.csv
 Creating ARTOLC tree and inserting data...
-Inserted 20000000 random key/value pairs.
+Inserted 200000 random key/value pairs.
 Key not found: 0
 Key not found: 0
 Key not found: 0
@@ -9,27 +9,10 @@ Key not found: 0
 Key not found: 0
 Key not found: 0
 Key not found: 0
-Key not found: 0
-Key not found: 0
-Key not found: 0
-Key not found: 0
-Key not found: 0
-Key not found: 0
-Key not found: 0
-Key not found: 0
-Key not found: 0
-Key not found: 0
-Key not found: 0
-Key not found: 0
-Key not found: 0
-Key not found: 0
-Key not found: 0
-Key not found: 0
-Key not found: 0
-Lat size968758942
-Write Lat size50991019
-GET | Threads: 60 | Avg Latency: 187.07 ns/op
-PUT | Threads: 60 | Avg Latency: 773.13 ns/op
-Total | Threads: 60 | Throughput: 277294339.46 ops/s | Avg Latency: 216.38 ns/op
+Lat size5856698
+Write Lat size307116
+GET | Threads: 60 | Avg Latency: 100543.56 ns/op
+PUT | Threads: 60 | Avg Latency: 33645.76 ns/op
+Total | Threads: 60 | Throughput: 617218.31 ops/s | Avg Latency: 97210.34 ns/op
 Writing row with 5 columns
 Done.
